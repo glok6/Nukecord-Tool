@@ -1,3 +1,4 @@
+![Screen](https://github.com/user-attachments/assets/4c7a3604-214d-49dd-b908-f18ae023c888)
 
 # Nukecord Tool
 
