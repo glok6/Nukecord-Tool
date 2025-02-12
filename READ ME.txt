@@ -1,0 +1,20 @@
+===========================================
+                       Nukecord
+===========================================
+
+Avertissement Important
+
+Nukecord est un outil de test de sécurité conçu UNIQUEMENT à des fins éducatives. 
+Il ne doit en aucun cas être utilisé de manière malveillante, sur des serveurs sans autorisation, 
+ou pour perturber des services. L'utilisation de cet outil à des fins illégales ou nuisibles peut entraîner 
+des sanctions, notamment un **bannissement permanent ou temporaire** de la plateforme ciblée.
+
+Conditions d'utilisation :
+
+- Ne pas revendre ou distribuer cet outil à des fins commerciales.
+- Utiliser un VPN pour protéger votre identité et votre confidentialité lors de l'utilisation de cet outil. (detectable)
+- Toute utilisation abusive peut entraîner un bannissement permanent ou temporaire.
+
+Utilisez Nukecord à vos risques et périls. Nous ne sommes pas responsables de l'utilisation 
+incorrecte de cet outil. Soyez responsable et respectez les lois et règles des plateformes.
+===========================================
