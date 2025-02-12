@@ -1,5 +1,5 @@
 # CE CODE EST PRODUIT PAR MALVEILLANCE (wgkr) MERCI DE NE PAS LE REVENDRE OU MODIFIER LE CODE.
-# ZephyrNuker © 2025 Tout Droit Réservé
+# Nukecord © 2025 Tout Droit Réservé
 
 
 import discord
