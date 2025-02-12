@@ -1,0 +1,18 @@
+🖤 Nukecord Tool License 🖤
+Copyright (c) [2025] Nukecord / Malveillance
+
+By using this software, you agree to the following terms and conditions:
+
+1. 🚫 **No Redistribution or Resale**:  
+   You **are not allowed to sell, redistribute, or sublicense** this software in any form. This tool is intended for **personal use only** and must not be shared or resold. Redistribution of this software, either in its original or modified form, to any third party is strictly prohibited. Any attempt to do so will result in immediate action and legal consequences.
+
+2. ⚠️ **No Modification of the Code**:  
+   You **are not allowed to modify, reverse engineer, decompile, or alter** the code in any way. This includes, but is not limited to, modifying the functionality, appearance, or any other part of the software. You may not create derivative works based on this tool. The code is protected by copyright law, and any unauthorized modification is prohibited.
+
+3. 💡 **Respect for Intellectual Property**:  
+   The software, including its source code, is the intellectual property of the creator and is protected by copyright law. You are granted a **license to use** the software under the terms outlined in this agreement, but no ownership rights are transferred to you.
+
+4. ⚖️ **Enforcement of Terms**:  
+   Violating these terms may result in **legal actions**, including but not limited to account bans, removal of access, or other legal proceedings. The creators of this software reserve the right to take action against anyone who infringes upon these terms.
+
+By using this software, you acknowledge that you have read, understood, and agreed to these terms and conditions. Any violation of these terms will result in immediate revocation of your usage rights.
